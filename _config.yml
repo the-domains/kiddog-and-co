@@ -1,6 +1,6 @@
 name: 'KidDog&co'
 favicon: null
-layout_spectrum: 0.7347900576423854
+layout_spectrum: 0.50214
 typography_spectrum: 0.1497
 title: 'KidDog&co'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#76c05a'
     - '#3c3c3c'
   brandStrength: 0.6668788525275886
-  lightness: 0.7610480017028749
+  lightness: 0.625
   saturation: 0.8674177718348801
   rhythmicContrast: 0.5
 purpose: []
