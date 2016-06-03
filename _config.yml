@@ -1,20 +1,4 @@
-name: 'KidDog&co'
-favicon: null
-layout_spectrum: 0.50214
-typography_spectrum: 0.11092
-title: 'KidDog&co'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#d49d69'
     - '#76c05a'
     - '#3c3c3c'
-  brandStrength: 0.6668788525275886
-  lightness: 0.625
-  saturation: 0.8674177718348801
+  brandStrength: 0.4375
+  lightness: 0.655405
   rhythmicContrast: 0.5
+  saturation: 0.867417
+cta: {}
+layout_spectrum: 0.652027
+name: 'KidDog&co'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.099662
